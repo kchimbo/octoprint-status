@@ -1,0 +1,1 @@
+# Get the status of the printer connected to octoprint
