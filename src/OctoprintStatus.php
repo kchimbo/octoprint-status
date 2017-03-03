@@ -17,6 +17,7 @@ class OctoprintStatus
 
 	/**
 	 * The OctoPrint API Key.
+	 * @var string
 	 */
 	protected $api;
 
